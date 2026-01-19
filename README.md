@@ -17,7 +17,7 @@ Each folder includes the complete solution with optimized code and clear impleme
 - Track coding progress publicly  
 
 ## 🛠️ Tech Stack
-- Language: Python  
+- Language: Python, Java
 - Platform: LeetCode  
 - Sync Tool: LeetSync  
 - Version Control: Git & GitHub  
@@ -30,36 +30,3 @@ Each folder includes the complete solution with optimized code and clear impleme
 ## 🔗 Connect
 - LeetCode Profile: https://leetcode.com/u/Yashraj3009/  
 
-
-## 🕒 Latest Solved Problems
-
-| Problem Folder | Last Updated |
-|----------------|--------------|
-| [2026-01-09](./2026-01-09) | 896-smalle |
-| [2026-01-11](./2026-01-11) | 85-maximal |
-| [2026-01-10](./2026-01-10) | 712-minimu |
-| [2026-01-14](./2026-01-14) | 3775-separ |
-| [2026-01-13](./2026-01-13) | 3763-separ |
-| [2026-01-17](./2026-01-17) | 3325-find- |
-| [2026-01-16](./2026-01-16) | 3250-maxim |
-| [2026-01-15](./2026-01-15) | 3214-maxim |
-| [2026-01-19](./2026-01-19) | 1413-maxim |
-| [2026-01-12](./2026-01-12) | 1395-minim |
-| [2026-01-18](./2026-01-18) | 1311-large |
-| [19:42:57](./19:42:57) | 2026-01-19 |
-
-## 🕒 Latest Solved Problems
-
-| Problem Folder | Last Updated |
-|----------------|--------------|
-| [2026-01-18](./2026-01-18) | 22:07:35 |
-| [2026-01-14](./2026-01-14) | 20:38:06 |
-| [2026-01-15](./2026-01-15) | 20:02:19 |
-| [2026-01-19](./2026-01-19) | 19:43:40 |
-| [2026-01-16](./2026-01-16) | 19:10:46 |
-| [2026-01-10](./2026-01-10) | 17:36:46 |
-| [2026-01-11](./2026-01-11) | 17:12:42 |
-| [2026-01-13](./2026-01-13) | 16:58:25 |
-| [2026-01-12](./2026-01-12) | 16:20:55 |
-| [2026-01-17](./2026-01-17) | 15:10:16 |
-| [2026-01-09](./2026-01-09) | 09:07:09 |
