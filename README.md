@@ -26,8 +26,3 @@ Each folder includes the complete solution with optimized code and clear impleme
 
 ## 🔗 Connect
 - LeetCode Profile: https://leetcode.com/u/Yashraj3009/  
-
-## 🕒 Latest Solved Problems
-
-| Problem Folder | Last Updated |
-|----------------|--------------|
