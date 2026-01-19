@@ -2,6 +2,7 @@
 
 
 
+
 # 📚 LeetCode Solutions
 
 This repository contains my daily solved **LeetCode coding problems**, organized by problem folders.  
@@ -25,3 +26,8 @@ Each folder includes the complete solution with optimized code and clear impleme
 
 ## 🔗 Connect
 - LeetCode Profile: https://leetcode.com/u/Yashraj3009/  
+
+## 🕒 Latest Solved Problems
+
+| Problem Folder | Last Updated |
+|----------------|--------------|
