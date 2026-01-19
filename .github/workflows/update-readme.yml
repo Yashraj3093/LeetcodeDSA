@@ -40,7 +40,7 @@ jobs:
           awk 'NF==1{date=$0} NF>1{print date, $0}' | \
           grep -v README.md | \
           sort -r | \
-          awk '!seen[$2]++ {printf "| [%s](./%s) | %s |\n", $2, $2, substr($1,1,10)}' \
+          awk '!seen[$2]++ {printf "| [%s](./%s) | %s |\n", $2, $2, substr($1,1,10)}'
           >> README.md
 
       - name: Commit and push README
