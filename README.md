@@ -1,5 +1,6 @@
 
 
+
 # 📚 LeetCode Solutions
 
 This repository contains my daily solved **LeetCode coding problems**, organized by problem folders.  
@@ -41,3 +42,8 @@ Each folder includes the complete solution with optimized code and clear impleme
 | [2026-01-12](./2026-01-12) | 1395-minim |
 | [2026-01-18](./2026-01-18) | 1311-large |
 | [19:32:31](./19:32:31) | 2026-01-19 |
+
+## 🕒 Latest Solved Problems
+
+| Problem Folder | Last Updated |
+|----------------|--------------|
