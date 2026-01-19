@@ -3,7 +3,7 @@ name: Update README sorted by latest commits
 on:
   push:
     branches:
-      - main   # change if your branch is 'master'
+      - main   # change to master if needed
 
 permissions:
   contents: write
@@ -18,9 +18,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate sorted README
+      - name: Backup existing README
         run: |
-          echo "# 📚 LeetCode Solutions (Latest First)" > README.md
+          if [ -f README.md ]; then
+            cp README.md README_backup.md
+          else
+            echo "# 📚 LeetCode Solutions" > README_backup.md
+          fi
+
+      - name: Generate sorted table
+        run: |
+          echo "" > README.md
+          cat README_backup.md >> README.md
+          echo "" >> README.md
+          echo "## 🕒 Latest Solved Problems" >> README.md
           echo "" >> README.md
           echo "| Problem Folder | Last Updated |" >> README.md
           echo "|----------------|--------------|" >> README.md
